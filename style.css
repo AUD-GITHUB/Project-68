@@ -1,0 +1,61 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#web {
+    color: black;
+    font-size: 40px;
+    width: 800px;
+    text-align: center;
+}
+
+nav navbar-nav {
+    color: white;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#00ff88 50%, #6effbb 100%)
+}
+
+li a {
+    font-size: 20px;
+    color: white;
+}
+
+.videos {
+    display: flex;
+}
+
+#sec {
+    height: 3px;
+    width: 600px auto;
+    background-color: black;
+    border-color: black;
+}
+
+h1 {
+    color: black;
+}
+
+#contact a {
+    background-color: deepskyblue;
+}
+
+#main {
+    color: darkolivegreen;
+    font-weight: bold;
+}
+
+#logo {
+    width: 70px;
+    height: 70px;
+    margin-left: 200px;
+    border-radius: 50%;
+}
+
+#main2 {
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
